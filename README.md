@@ -9,5 +9,5 @@
 This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems
 
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/hancet/HackerRank-Solutions)](https://github.com/hancet/HackerRank-Solutions/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/hancet/HackerRank-Solutions)](https://github.com/hancet/HackerRank-Solutions/archive/master.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/hanificetinkaya/HackerRank-Solutions)](https://github.com/hanificetinkaya/HackerRank-Solutions/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/hancet/hanificetinkaya-Solutions)](https://github.com/hanificetinkaya/HackerRank-Solutions/archive/master.zip)
